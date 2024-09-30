@@ -14,7 +14,7 @@
 <br/>
 
 - 💼 I’m currently working as a Full-Stack Developer & Product Manager at **Spallian**
-- 🌱 Currently improving my skills in **React Native**, **Svelte**, and exploring **Data Engineering**
+- 🌱 Currently focusing on improving my skills in **DevOps**, while continuing to grow in **React Native** and **Svelte** development.
 
 ---
 
