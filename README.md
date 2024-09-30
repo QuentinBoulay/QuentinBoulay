@@ -2,10 +2,10 @@
 
 **About Me**
 
-<a href="https://x.com/quentin_boulay">
+<a href="#">
   <img align="left" alt="Quentin Twitter" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/quentin-boulay/">
+<a href="https://www.linkedin.com/in/quentin-boulay-91805b185/">
   <img align="left" alt="Quentin LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
