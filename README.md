@@ -64,13 +64,13 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quentinboulay&show_icons=true&theme=radical&hide_border=true" alt="Quentin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=quuentinho&show_icons=true&theme=radical&hide_border=true" alt="Quentin's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quentinboulay&theme=radical&hide_border=true" alt="Quentin's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quuentinho&theme=radical&hide_border=true" alt="Quentin's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quentinboulay&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quuentinho&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
